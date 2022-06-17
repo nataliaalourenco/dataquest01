@@ -1,2 +1,2 @@
 # dataquest01
-My first Data Science Project
+My data science project on DataQuest.io!
